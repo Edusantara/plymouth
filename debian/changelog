@@ -6,7 +6,7 @@ plymouth (0.8.8-14blankon1+edusantara1) anambas; urgency=medium
   * debian/control suggests: 
     - plymouth-theme-edusantara
 
- -- mijortsa <mijortsa@localhost>  Sun, 17 Aug 2014 16:12:57 +0700
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 17 Aug 2014 16:12:57 +0700
 
 plymouth (0.8.8-14blankon1) suroboyo; urgency=low
 
